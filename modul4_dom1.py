@@ -29,3 +29,4 @@ total_sum, average_salary = total_salary("salaries.txt")
 if total_sum is not None and average_salary is not None:
     print("Загальна сума заробітної плати:", total_sum)
     print("Середня заробітна плата:", average_salary)
+
